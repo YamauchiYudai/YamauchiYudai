@@ -5,6 +5,6 @@
 
 http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={YamauchiYudai}&theme={dracul}
 
-[![Yudai's github stats](https://github-readme-stats.vercel.app/api?username=YamauchiYudai&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)]
+![Yudai's github stats](https://github-readme-stats.vercel.app/api?username=YamauchiYudai&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)]
 
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YamauchiYudai&layout=compact&theme=tokyonight)
+![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YamauchiYudai&layout=compact&theme=tokyonight)
