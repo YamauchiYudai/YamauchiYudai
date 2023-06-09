@@ -8,3 +8,4 @@
 [![Yudai's GitHub stats](https://github-readme-stats.vercel.app/api?username=YamauchiYudai&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YamauchiYudai&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YamauchiYudai&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
