@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Image processing, Deep Learning, Brain science.
 
 ![Yudai's profile details](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YamauchiYudai&theme=dracul)
+(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamauchiYudai&theme=dracul)
 
 ![Yudai's github stats](https://github-readme-stats.vercel.app/api?username=YamauchiYudai&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)
 
