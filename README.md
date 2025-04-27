@@ -1,7 +1,8 @@
 ### Hello everyone, I'm Yudai 👋
 
-- 🏫 I’m RWTH Aachen University student which learning Computer Engineering.
-- 🌱 I’m currently learning Image processing, Deep Learning, Brain science.
+- 🧳 I am working as a system engineer in Tokyo, Japan.
+- 🏫 I was RWTH Aachen University student which learning Computer Engineering.
+- 🌱 I’m currently learning Image processing, generative model, Deep Learning, XAI and Brain science.
 
 ![Yudai's profile details in Github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YamauchiYudai&theme=dracula)
 
